@@ -4,7 +4,7 @@
 # Інсталяція
 
 1. Установити Docker [тут_мануал](https://docs.docker.com/desktop/windows/install/#install-docker-desktop-on-windows)
-2. Завантажити [архів]()
+2. Завантажити [архів](https://github.com/salivo/PyDDosTool/raw/main/PyDDosTool_window_amd64.zip)
 3. Розпакувати архів PyDDosTool_window_amd64.zip
 
 # Використання
