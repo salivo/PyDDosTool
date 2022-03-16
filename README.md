@@ -3,7 +3,7 @@
 
 # Інсталяція
 
-1. Установити Docker [тут мануал](# https://docs.docker.com/desktop/windows/install/#install-docker-desktop-on-windows)
+1. Установити Docker [тут мануал](#https://docs.docker.com/desktop/windows/install/#install-docker-desktop-on-windows)
 2. запустити "PyDDosTool.exe"
 
 # Використання
