@@ -1,5 +1,8 @@
 # 😼PyDDosTool
-Збірка DDos інструментів
+
+**Збірка DDos інструментів**
+
+![](https://github.com/salivo/PyDDosTool/blob/main/ProgramImage.png?raw=true "Орк")
 
 # Інсталяція
 
